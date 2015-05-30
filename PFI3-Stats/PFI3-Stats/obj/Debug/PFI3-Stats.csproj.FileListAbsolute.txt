@@ -1,0 +1,9 @@
+C:\Users\Antho\Desktop\PFI3-Stats\PFI3-Stats\bin\Debug\PFI3-Stats.exe.config
+C:\Users\Antho\Desktop\PFI3-Stats\PFI3-Stats\bin\Debug\PFI3-Stats.exe
+C:\Users\Antho\Desktop\PFI3-Stats\PFI3-Stats\bin\Debug\PFI3-Stats.pdb
+C:\Users\Antho\Desktop\PFI3-Stats\PFI3-Stats\obj\Debug\PFI3-Stats.csprojResolveAssemblyReference.cache
+C:\Users\Antho\Desktop\PFI3-Stats\PFI3-Stats\obj\Debug\PFI3_Stats.Form1.resources
+C:\Users\Antho\Desktop\PFI3-Stats\PFI3-Stats\obj\Debug\PFI3_Stats.Properties.Resources.resources
+C:\Users\Antho\Desktop\PFI3-Stats\PFI3-Stats\obj\Debug\PFI3-Stats.csproj.GenerateResource.Cache
+C:\Users\Antho\Desktop\PFI3-Stats\PFI3-Stats\obj\Debug\PFI3-Stats.exe
+C:\Users\Antho\Desktop\PFI3-Stats\PFI3-Stats\obj\Debug\PFI3-Stats.pdb
