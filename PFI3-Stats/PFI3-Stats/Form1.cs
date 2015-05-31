@@ -48,6 +48,12 @@ namespace PFI3_Stats
             double Zab = 1.96;
             double ME = Math.Sqrt(Pi * (1.0 - Pi)/100.0);
             TB_Aire.Text = 11*YMax*Pi + " +/- " + (Zab*ME).ToString();
+
+            // Probabilité
+            double AireTotal = 11.0 * YMax;
+            double AirSousLaCourbe = 11 * YMax * Pi;
+            TB_Probabilite.Text = ((AirSousLaCourbe / AireTotal) * 100).ToString() + "%";
+
         } 
         private void Calculf2()
         {
@@ -71,6 +77,11 @@ namespace PFI3_Stats
             double Zab = 1.96;
             double ME = Math.Sqrt(Pi * (1.0 - Pi)/100.0);
             TB_Aire.Text = 11 * YMax * Pi + " +/- " + (Zab * ME).ToString();
+
+            // Probabilité
+            double AireTotal = 11.0 * YMax;
+            double AirSousLaCourbe = 11 * YMax * Pi;
+            TB_Probabilite.Text = ((AirSousLaCourbe / AireTotal) * 100).ToString() + "%";
         }
         private void Calculf3()
         {
@@ -94,6 +105,11 @@ namespace PFI3_Stats
             double Zab = 1.96;
             double ME = Math.Sqrt(Pi * (1.0 - Pi)/100.0);
             TB_Aire.Text = 11 * YMax * Pi + " +/- " + (Zab * ME).ToString();
+
+            // Probabilité
+            double AireTotal = 11.0 * YMax;
+            double AirSousLaCourbe = 11 * YMax * Pi;
+            TB_Probabilite.Text = ((AirSousLaCourbe / AireTotal) * 100).ToString() + "%";
         }
         private void Calculf4()
         {
@@ -117,6 +133,11 @@ namespace PFI3_Stats
             double Zab = 1.96;
             double ME = Math.Sqrt(Pi * (1.0 - Pi)/100.0);
             TB_Aire.Text = 11 * YMax * Pi + " +/- " + (Zab * ME).ToString();
+
+            // Probabilité
+            double AireTotal = 11.0 * YMax;
+            double AirSousLaCourbe = 11 * YMax * Pi;
+            TB_Probabilite.Text = ((AirSousLaCourbe / AireTotal) * 100).ToString() + "%";
         }
         private void Calculf5()
         {
@@ -143,6 +164,11 @@ namespace PFI3_Stats
             double Zab = 1.96;
             double ME = Math.Sqrt(Pi * (1.0 - Pi)/100.0);
             TB_Aire.Text = 11 * YMax * Pi + " +/- " + (Zab * ME).ToString();
+
+            // Probabilité
+            double AireTotal = 11.0 * YMax;
+            double AirSousLaCourbe = 11 * YMax * Pi;
+            TB_Probabilite.Text = ((AirSousLaCourbe / AireTotal) * 100).ToString() + "%";
         }
 #endregion
 
